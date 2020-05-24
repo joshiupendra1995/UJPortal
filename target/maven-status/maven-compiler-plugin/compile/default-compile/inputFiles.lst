@@ -1,0 +1,12 @@
+D:\Projects\UJPortal\src\main\java\com\uj\portal\constraint\FieldMatch.java
+D:\Projects\UJPortal\src\main\java\com\uj\portal\service\UserService.java
+D:\Projects\UJPortal\src\main\java\com\uj\portal\service\UserServiceImpl.java
+D:\Projects\UJPortal\src\main\java\com\uj\portal\web\UserRegistrationController.java
+D:\Projects\UJPortal\src\main\java\com\uj\portal\repository\UserRepository.java
+D:\Projects\UJPortal\src\main\java\com\uj\portal\constraint\FieldMatchValidator.java
+D:\Projects\UJPortal\src\main\java\com\uj\portal\model\Role.java
+D:\Projects\UJPortal\src\main\java\com\uj\portal\config\SecurityConfiguration.java
+D:\Projects\UJPortal\src\main\java\com\uj\portal\web\MainController.java
+D:\Projects\UJPortal\src\main\java\com\uj\portal\Application.java
+D:\Projects\UJPortal\src\main\java\com\uj\portal\model\User.java
+D:\Projects\UJPortal\src\main\java\com\uj\portal\web\dto\UserRegistrationDto.java

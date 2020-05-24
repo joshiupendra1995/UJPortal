@@ -1,0 +1,13 @@
+com\uj\portal\model\Role.class
+com\uj\portal\model\User.class
+com\uj\portal\service\UserService.class
+com\uj\portal\repository\UserRepository.class
+com\uj\portal\web\UserRegistrationController.class
+com\uj\portal\constraint\FieldMatch$List.class
+com\uj\portal\config\SecurityConfiguration.class
+com\uj\portal\web\dto\UserRegistrationDto.class
+com\uj\portal\web\MainController.class
+com\uj\portal\constraint\FieldMatch.class
+com\uj\portal\Application.class
+com\uj\portal\service\UserServiceImpl.class
+com\uj\portal\constraint\FieldMatchValidator.class
